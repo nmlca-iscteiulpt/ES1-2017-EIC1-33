@@ -1,0 +1,1 @@
+Nós tentamos várias vezes fazer o pdf com o MikTeX, mas nao conseguimos resolver o erro que mostramos na imagem. Tentamos reinstalar e fazer de novo, mas o problema persistia.
