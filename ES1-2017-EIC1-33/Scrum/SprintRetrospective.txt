@@ -1,0 +1,8 @@
+Reunião de Sprint Retrospective após a revisão do Sprint (os 4 elementos presentes):
+-Concordamos todos que a ferramenta do Git é muito útil para guardarmos o trabalho e termos este sempre presente e atualizado, mas precisamos de melhorar na sua efici�ncia pois muitas vezes perdeu-se tempo devido a erros ocorridos ao fazer commit ou push do trabalho nesse mesmo Git.
+-Admitimos que trabalhar juntos, quer em reuniões fora da universidade, quer dentro da universidade é mais eficiente e mais organizado do que trabalhar individualmente. Estarmos em conjunto aumenta a entre-ajuda, as ideias são melhor trocadas e o tempo para fazer determinada tarefa diminui.
+-A instalação de todos os programas precisos para a realizacao do trabalho nos computadores pessoais de todos os elementos envolvidos também veio aumentar a eficiência da nossa equipa, pois assim ninguém fica dependente de ninguém para fazer determinada tarefa.
+-Um dos aspetos ineficientes que ocorreu foi não pedir ajuda imediata ao professor quando nos surgiu um problema e esperar quase uma semana para o esclarecer com este. Isso fez com que perdessemos tempo que podiamos ter aproveitado se o erro já tivesse sido esclarecido.
+-Admitimos tamb�m que ler os powerpoints disponibilizados no e-learning da cadeira nos fez evitar muitos problemas que poderiamos ter encontrado ao realizar as v�rias etapas deste trabalho.
+
+Concluímos que as técnicas que utilizámos funcionaram quase na perfeição na realização deste trabalho, excepto erros que diminuiram um pouco a nossa eficiência.
